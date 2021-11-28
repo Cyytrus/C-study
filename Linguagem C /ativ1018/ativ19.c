@@ -22,7 +22,6 @@ int main() {
   A %= 5;
   printf("%d nota(s) de R$ 2,00\n", A/2);
   A %= 2;
-  
   printf("%d nota(s) de R$ 1,00\n", A);
   
   return 0;
